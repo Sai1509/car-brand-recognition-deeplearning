@@ -8,7 +8,6 @@ certifi==2020.4.5.1
 chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
-configparser==5.0.2
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
@@ -99,6 +98,9 @@ wcwidth==0.1.9
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
+matplotlib==3.4.2
+configparser==5.0.2
+opencv-python
 wincertstore==0.2
 wrapt==1.12.1
 zipp==3.1.0
